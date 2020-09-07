@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FreezingSnail.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/FreezingSnail.github.io/static/js/main.55f32dc6.chunk.js",
+    "main.js.map": "/FreezingSnail.github.io/static/js/main.55f32dc6.chunk.js.map",
+    "runtime-main.js": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js",
+    "runtime-main.js.map": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js.map",
+    "static/js/2.bf25e480.chunk.js": "/FreezingSnail.github.io/static/js/2.bf25e480.chunk.js",
+    "static/js/2.bf25e480.chunk.js.map": "/FreezingSnail.github.io/static/js/2.bf25e480.chunk.js.map",
+    "index.html": "/FreezingSnail.github.io/index.html",
+    "precache-manifest.cc97cd590ec419ef2180e9b1cd1b2ca4.js": "/FreezingSnail.github.io/precache-manifest.cc97cd590ec419ef2180e9b1cd1b2ca4.js",
+    "service-worker.js": "/FreezingSnail.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/FreezingSnail.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bf25e480.chunk.js.LICENSE.txt": "/FreezingSnail.github.io/static/js/2.bf25e480.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/FreezingSnail.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16bb92bb.js",
+    "static/js/2.bf25e480.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.55f32dc6.chunk.js"
+  ]
+}
