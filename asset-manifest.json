@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FreezingSnail.github.io/static/css/main.3a028988.chunk.css",
-    "main.js": "/FreezingSnail.github.io/static/js/main.9998d008.chunk.js",
-    "main.js.map": "/FreezingSnail.github.io/static/js/main.9998d008.chunk.js.map",
-    "runtime-main.js": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js",
-    "runtime-main.js.map": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js.map",
-    "static/js/2.70a3f954.chunk.js": "/FreezingSnail.github.io/static/js/2.70a3f954.chunk.js",
-    "static/js/2.70a3f954.chunk.js.map": "/FreezingSnail.github.io/static/js/2.70a3f954.chunk.js.map",
-    "index.html": "/FreezingSnail.github.io/index.html",
-    "precache-manifest.a653f98ba9dea770264f61e083e1ff29.js": "/FreezingSnail.github.io/precache-manifest.a653f98ba9dea770264f61e083e1ff29.js",
-    "service-worker.js": "/FreezingSnail.github.io/service-worker.js",
-    "static/css/main.3a028988.chunk.css.map": "/FreezingSnail.github.io/static/css/main.3a028988.chunk.css.map",
-    "static/js/2.70a3f954.chunk.js.LICENSE.txt": "/FreezingSnail.github.io/static/js/2.70a3f954.chunk.js.LICENSE.txt",
-    "static/media/arduboySidebar.scss": "/FreezingSnail.github.io/static/media/gohufont-uni-14.a4d16f6e.ttf",
-    "static/media/jelliIntro.gif": "/FreezingSnail.github.io/static/media/jelliIntro.1debeca5.gif"
+    "main.css": "/static/css/main.5f260126.chunk.css",
+    "main.js": "/static/js/main.1b616031.chunk.js",
+    "main.js.map": "/static/js/main.1b616031.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f01603a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f01603a9.js.map",
+    "static/js/2.5c88e728.chunk.js": "/static/js/2.5c88e728.chunk.js",
+    "static/js/2.5c88e728.chunk.js.map": "/static/js/2.5c88e728.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c3145a614f6276c4bff31ef2627aec39.js": "/precache-manifest.c3145a614f6276c4bff31ef2627aec39.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f260126.chunk.css.map": "/static/css/main.5f260126.chunk.css.map",
+    "static/js/2.5c88e728.chunk.js.LICENSE.txt": "/static/js/2.5c88e728.chunk.js.LICENSE.txt",
+    "static/media/arduboySidebar.scss": "/static/media/gohufont-uni-14.a4d16f6e.ttf",
+    "static/media/jelliIntro.gif": "/static/media/jelliIntro.1debeca5.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.16bb92bb.js",
-    "static/js/2.70a3f954.chunk.js",
-    "static/css/main.3a028988.chunk.css",
-    "static/js/main.9998d008.chunk.js"
+    "static/js/runtime-main.f01603a9.js",
+    "static/js/2.5c88e728.chunk.js",
+    "static/css/main.5f260126.chunk.css",
+    "static/js/main.1b616031.chunk.js"
   ]
 }
