@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FreezingSnail.github.io/precache-manifest.efbc987b0c97606873807bbbc8baac69.js"
+  "/FreezingSnail.github.io/precache-manifest.161b6f5328dfa561052520589ae97792.js"
 );
 
 self.addEventListener('message', (event) => {

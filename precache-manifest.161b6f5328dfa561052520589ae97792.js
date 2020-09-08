@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13b2b36e4b8b1949d9d81e3299d99129",
+    "revision": "c40cecfb5e1f392db62012963b37ff9d",
     "url": "/FreezingSnail.github.io/index.html"
   },
   {
-    "revision": "5f423c3d9e13d1f0902a",
+    "revision": "fea0582b6509360170f4",
     "url": "/FreezingSnail.github.io/static/css/main.cb3422a7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FreezingSnail.github.io/static/js/2.5c88e728.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f423c3d9e13d1f0902a",
-    "url": "/FreezingSnail.github.io/static/js/main.4e0ce881.chunk.js"
+    "revision": "fea0582b6509360170f4",
+    "url": "/FreezingSnail.github.io/static/js/main.bd68e8cb.chunk.js"
   },
   {
     "revision": "ceb6bff6f4bfa16dbbd8",
