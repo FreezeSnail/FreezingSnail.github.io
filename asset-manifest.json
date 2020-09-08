@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FreezingSnail.github.io/static/css/main.cb3422a7.chunk.css",
-    "main.js": "/FreezingSnail.github.io/static/js/main.bd68e8cb.chunk.js",
-    "main.js.map": "/FreezingSnail.github.io/static/js/main.bd68e8cb.chunk.js.map",
+    "main.js": "/FreezingSnail.github.io/static/js/main.a382a5bd.chunk.js",
+    "main.js.map": "/FreezingSnail.github.io/static/js/main.a382a5bd.chunk.js.map",
     "runtime-main.js": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js",
     "runtime-main.js.map": "/FreezingSnail.github.io/static/js/runtime-main.16bb92bb.js.map",
     "static/js/2.5c88e728.chunk.js": "/FreezingSnail.github.io/static/js/2.5c88e728.chunk.js",
     "static/js/2.5c88e728.chunk.js.map": "/FreezingSnail.github.io/static/js/2.5c88e728.chunk.js.map",
     "index.html": "/FreezingSnail.github.io/index.html",
-    "precache-manifest.161b6f5328dfa561052520589ae97792.js": "/FreezingSnail.github.io/precache-manifest.161b6f5328dfa561052520589ae97792.js",
+    "precache-manifest.c8cc01a00c4422d2fa740e4b5f1121d1.js": "/FreezingSnail.github.io/precache-manifest.c8cc01a00c4422d2fa740e4b5f1121d1.js",
     "service-worker.js": "/FreezingSnail.github.io/service-worker.js",
     "static/css/main.cb3422a7.chunk.css.map": "/FreezingSnail.github.io/static/css/main.cb3422a7.chunk.css.map",
     "static/js/2.5c88e728.chunk.js.LICENSE.txt": "/FreezingSnail.github.io/static/js/2.5c88e728.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.16bb92bb.js",
     "static/js/2.5c88e728.chunk.js",
     "static/css/main.cb3422a7.chunk.css",
-    "static/js/main.bd68e8cb.chunk.js"
+    "static/js/main.a382a5bd.chunk.js"
   ]
 }
